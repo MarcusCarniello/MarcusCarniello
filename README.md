@@ -1,4 +1,4 @@
-Olá, eu sou o Marcus 👋
+Olá, eu sou o Marcus Carniello 👋
 
 Estudante de Desenvolvimento de Software na Fatec Jassen Vidal em São José dos Campos, aprendendo na prática enquanto construo projetos reais.
 
@@ -16,4 +16,10 @@ Estudante de Desenvolvimento de Software na Fatec Jassen Vidal em São José dos
 
 🛠️ Tecnologias e ferramentas:
 ![Minhas skills](https://skillicons.dev/icons?i=python,html,css)
+
+Projetos Reais:
+
+
+
+⭐️ Sempre em busca de aprender mais e evoluir como desenvolvedor.
 
