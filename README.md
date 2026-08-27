@@ -1,16 +1,12 @@
-## Hi there 👋
+Olá, eu sou o Marcus 👋
 
-<!--
-**MarcusCarniello/MarcusCarniello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Desenvolvimento de Software na Fatec Jassen Vidal em São José dos Campos, aprendendo na prática enquanto construo projetos reais.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Sobre mim:
+🎓 Cursando Desenvolvimento de Software Multiplataforma (Fatec)
+💻 Comecei sem experiência prévia em programação e estou construindo minha base do zero.
+🌱 Atualmente estudando: Python, HTML, CSS e lógica de programação.
+🔨 Gosto de aprender construindo ferramentas práticas do dia a dia
+📫 Como me encontrar: (adicione seu LinkedIn, e-mail ou outro contato aqui)
+🛠️ Tecnologias e ferramentas:
+![Minhas skills](https://skillicons.dev/icons?i=python,html,css)
