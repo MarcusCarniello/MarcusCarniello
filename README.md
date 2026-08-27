@@ -16,6 +16,7 @@
 <h2 align="center">🛠️ Tecnologias</h2>
 
 <p align="center">
+![Minhas skills](https://skillicons.dev/icons?i=python,html,css)
 
 </p>
 
@@ -23,7 +24,6 @@
 
 <p align="center">
   <b>Compressor de Imagens no Navegador</b> — ferramenta em HTML/Canvas (sem servidor) que reduz o tamanho de imagens para menos de 1MB.<br><br>
-  ![Minhas skills](https://skillicons.dev/icons?i=python,html,css)
-
+  
 <p align="center">⭐️ Sempre em busca de aprender mais e evoluir como desenvolvedor.</p>
 
