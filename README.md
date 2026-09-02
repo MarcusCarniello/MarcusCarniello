@@ -17,7 +17,8 @@ Estudante de Desenvolvimento de Software na Fatec Jassen Vidal em São José dos
 🛠️ Tecnologias e ferramentas:
 ![Minhas skills](https://skillicons.dev/icons?i=python,html,css)
 
-Projetos Reais:
+Projetos Reais: https://marcuscarniello.github.io/atividade1/ 
+( Site imobiliário)
 
 
 
