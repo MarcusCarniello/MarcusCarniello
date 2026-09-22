@@ -5,26 +5,15 @@
 <!-- ========================================================= -->
 
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&height=220&section=header&text=MARCUS%20CARNIELLO&fontSize=42&fontColor=ffffff&fontAlignY=50&fontAlign=50&desc=ESTUDANTE%20%7C%20FATEC%20S%C3%83O%20JOS%C3%89%20DOS%20CAMPOS&descSize=15&descAlignY=68&descColor=39ff88&color=0:050505,20:06140b,40:0a2f1a,55:0d542d,70:0b321c,85:07170d,100:050505"
+  src="https://capsule-render.vercel.app/api?type=rect&height=340&section=header&text=MARCUS%20CARNIELLO&fontSize=56&fontColor=ffffff&fontAlignY=47&fontAlign=50&desc=SOFTWARE%20DEVELOPER%20%E2%80%A2%20APIs%20E%20COMPUTA%C3%87%C3%83O&descSize=19&descAlignY=62&descColor=39ff88&color=0:020403,10:030b06,25:061a0e,40:0b3820,50:0f5c31,60:0a3d21,75:061b0f,90:030a06,100:010201"
   width="100%"
   alt="Marcus Carniello"
-/>
-
-<br>
-
-<!-- ========================================================= -->
-<!--                      TYPING                               -->
-<!-- ========================================================= -->
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=39FF88&center=true&vCenter=true&width=700&lines=HTML+%E2%80%A2+CSS+%E2%80%A2+Python;Aprendendo+%E2%80%A2+Construindo+%E2%80%A2+Evoluindo"
-  alt="Typing animation"
 />
 
 <br><br>
 
 <!-- ========================================================= -->
-<!--                      REDES                                -->
+<!--                         REDES                             -->
 <!-- ========================================================= -->
 
 <a href="https://github.com/MarcusCarniello">
@@ -53,7 +42,7 @@
 
 Sou **Marcus Carniello**, estudante da **FATEC São José dos Campos**.
 
-Atualmente estudo e desenvolvo projetos utilizando **HTML, CSS e Python**.
+Atualmente estudo e desenvolvo projetos utilizando **HTML, CSS e Python**, com interesse em **APIs e computação**.
 
 Este perfil é meu espaço para compartilhar projetos, estudos e minha evolução na área de tecnologia.
 
@@ -62,18 +51,18 @@ Este perfil é meu espaço para compartilhar projetos, estudos e minha evoluçã
 ---
 
 <!-- ========================================================= -->
-<!--                    TECNOLOGIAS                           -->
+<!--                    TECNOLOGIAS                            -->
 <!-- ========================================================= -->
 
 ## `> Tecnologias`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=python" height="60" alt="Python"/>
+<img src="https://skillicons.dev/icons?i=html" height="65" alt="HTML"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" height="65" alt="CSS"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=python" height="65" alt="Python"/>
 
 <br><br>
 
@@ -138,13 +127,13 @@ Projeto publicado através do GitHub Pages.
 <div align="center">
 
 <img
-  height="170"
+  height="180"
   src="https://github-readme-stats.vercel.app/api?username=MarcusCarniello&show_icons=true&hide_border=true&bg_color=050505&title_color=39ff88&icon_color=39ff88&text_color=ffffff&ring_color=39ff88"
   alt="GitHub Stats"
 />
 
 <img
-  height="170"
+  height="180"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusCarniello&layout=compact&hide_border=true&bg_color=050505&title_color=39ff88&text_color=ffffff&langs_count=6"
   alt="Top Languages"
 />
@@ -272,7 +261,7 @@ Projeto publicado através do GitHub Pages.
 <br><br>
 
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&height=100&section=footer&color=0:050505,40:0a2f1a,60:0d542d,100:050505&text=Obrigado%20por%20visitar%20meu%20perfil&fontColor=ffffff&fontSize=18&fontAlignY=55"
+  src="https://capsule-render.vercel.app/api?type=rect&height=120&section=footer&color=0:010201,25:061b0f,50:0f5c31,75:061b0f,100:010201&text=Obrigado%20por%20visitar%20meu%20perfil&fontColor=ffffff&fontSize=20&fontAlignY=55"
   width="100%"
   alt="Footer"
 />
