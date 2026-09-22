@@ -19,7 +19,7 @@
 
 ## 🖤💚 Sobre mim
 
-```py
+<pre>
 class Marcus:
     def __init__(self):
         self.nome = "Marcus Carniello"
@@ -29,7 +29,7 @@ class Marcus:
 
     def curiosidade(self):
         return "Comecei a programar do zero na Fatec e não parei mais."
-```
+</pre>
 
 <br/>
 
@@ -77,38 +77,6 @@ class Marcus:
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=MarcusCarniello&theme=dark&background=000000&stroke=00FF7F&ring=00FF7F&fire=00FF7F&currStreakLabel=00FF7F&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&border=00FF7F" width="60%"/>
-
-</div>
-
-<br/>
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MarcusCarniello&theme=react-dark&bg_color=000000&color=00FF7F&line=00FF7F&point=ffffff&area=true&hide_border=true" width="90%"/>
-
-</div>
-
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MarcusCarniello&theme=darkhub&no-frame=true&no-bg=false&margin-w=8&column=7" />
-
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/MarcusCarniello/MarcusCarniello/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-
-<sub>⚠️ Gerado automaticamente via GitHub Actions — veja instruções de configuração abaixo.</sub>
 
 </div>
 
