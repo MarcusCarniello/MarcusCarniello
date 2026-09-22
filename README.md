@@ -1,91 +1,71 @@
 <div align="center">
 
-<!-- ========================= BANNER ========================= -->
+<!-- ========================================================= -->
+<!--                         BANNER                            -->
+<!-- ========================================================= -->
 
-<svg width="100%" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1200" height="180" fill="#0a0a0a"/>
-  <path d="M0 145 Q250 90 500 135 T1000 115 T1200 125"
-        fill="none"
-        stroke="#39ff88"
-        stroke-width="2"
-        opacity="0.7"/>
-  <path d="M0 155 Q250 100 500 145 T1000 125 T1200 135"
-        fill="none"
-        stroke="#39ff88"
-        stroke-width="1"
-        opacity="0.25"/>
-  <text x="600"
-        y="78"
-        text-anchor="middle"
-        fill="#ffffff"
-        font-family="Arial, Helvetica, sans-serif"
-        font-size="42"
-        font-weight="700">
-    MARCUS CARNIELLO
-  </text>
-  <text x="600"
-        y="112"
-        text-anchor="middle"
-        fill="#39ff88"
-        font-family="monospace"
-        font-size="18">
-    ESTUDANTE • FATEC SÃO JOSÉ DOS CAMPOS
-  </text>
-</svg>
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&height=220&section=header&text=MARCUS%20CARNIELLO&fontSize=42&fontColor=ffffff&fontAlignY=50&fontAlign=50&desc=ESTUDANTE%20%7C%20FATEC%20S%C3%83O%20JOS%C3%89%20DOS%20CAMPOS&descSize=15&descAlignY=68&descColor=39ff88&color=0:050505,20:06140b,40:0a2f1a,55:0d542d,70:0b321c,85:07170d,100:050505"
+  width="100%"
+  alt="Marcus Carniello"
+/>
 
 <br>
 
-<!-- ========================= REDES ========================= -->
+<!-- ========================================================= -->
+<!--                      TYPING                               -->
+<!-- ========================================================= -->
 
-<a href="https://github.com/MarcusCarniello">
-  <img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=39ff88"/>
-</a>
-
-<a href="https://www.linkedin.com/in/marcus-carniello-a8b238369">
-  <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=39ff88"/>
-</a>
-
-<a href="https://instagram.com/MarcusCarniello">
-  <img src="https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=39ff88"/>
-</a>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=39FF88&center=true&vCenter=true&width=700&lines=HTML+%E2%80%A2+CSS+%E2%80%A2+Python;Aprendendo+%E2%80%A2+Construindo+%E2%80%A2+Evoluindo"
+  alt="Typing animation"
+/>
 
 <br><br>
 
-<!-- ========================= TYPING ========================= -->
+<!-- ========================================================= -->
+<!--                      REDES                                -->
+<!-- ========================================================= -->
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF88&center=true&vCenter=true&width=700&lines=Estudante+da+FATEC+S%C3%A3o+Jos%C3%A9+dos+Campos;HTML+%E2%80%A2+CSS+%E2%80%A2+Python;Aprendendo+%E2%80%A2+Construindo+%E2%80%A2+Evoluindo"
-  alt="Typing animation"
-/>
+<a href="https://github.com/MarcusCarniello">
+  <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=39ff88"/>
+</a>
+
+<a href="https://www.linkedin.com/in/marcus-carniello-a8b238369">
+  <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=39ff88"/>
+</a>
+
+<a href="https://instagram.com/MarcusCarniello">
+  <img src="https://img.shields.io/badge/Instagram-050505?style=for-the-badge&logo=instagram&logoColor=39ff88"/>
+</a>
 
 </div>
 
 <br>
 
-<!-- ========================= SOBRE MIM ========================= -->
+---
 
-<h2> &gt; Sobre mim</h2>
+<!-- ========================================================= -->
+<!--                      SOBRE MIM                            -->
+<!-- ========================================================= -->
 
-<p>
-Sou <strong>Marcus Carniello</strong>, estudante da
-<strong>FATEC São José dos Campos</strong>.
-</p>
+## `> Sobre mim`
 
-<p>
-Atualmente estudo e desenvolvo projetos utilizando
-<strong>HTML</strong>, <strong>CSS</strong> e <strong>Python</strong>.
-</p>
+Sou **Marcus Carniello**, estudante da **FATEC São José dos Campos**.
 
-<p>
-Este perfil é meu espaço para compartilhar projetos,
-estudos e minha evolução na área de tecnologia.
-</p>
+Atualmente estudo e desenvolvo projetos utilizando **HTML, CSS e Python**.
+
+Este perfil é meu espaço para compartilhar projetos, estudos e minha evolução na área de tecnologia.
 
 <br>
 
-<!-- ========================= TECNOLOGIAS ========================= -->
+---
 
-<h2> &gt; Tecnologias</h2>
+<!-- ========================================================= -->
+<!--                    TECNOLOGIAS                           -->
+<!-- ========================================================= -->
+
+## `> Tecnologias`
 
 <div align="center">
 
@@ -105,9 +85,13 @@ estudos e minha evolução na área de tecnologia.
 
 <br>
 
-<!-- ========================= PROJETOS ========================= -->
+---
 
-<h2> &gt; Projeto em destaque</h2>
+<!-- ========================================================= -->
+<!--                       PROJETOS                            -->
+<!-- ========================================================= -->
+
+## `> Projeto em destaque`
 
 <div align="center">
 
@@ -122,6 +106,8 @@ estudos e minha evolução na área de tecnologia.
 Projeto publicado através do GitHub Pages.
 </p>
 
+<br>
+
 <img src="https://img.shields.io/badge/HTML-39ff88?style=flat-square&logo=html5&logoColor=000000"/>
 <img src="https://img.shields.io/badge/CSS-39ff88?style=flat-square&logo=css3&logoColor=000000"/>
 <img src="https://img.shields.io/badge/GitHub%20Pages-39ff88?style=flat-square&logo=github&logoColor=000000"/>
@@ -129,7 +115,7 @@ Projeto publicado através do GitHub Pages.
 <br><br>
 
 <a href="https://marcuscarniello.github.io/atividade1/">
-<img src="https://img.shields.io/badge/VER%20PROJETO-0a0a0a?style=for-the-badge&logo=github&logoColor=39ff88"/>
+  <img src="https://img.shields.io/badge/VER%20PROJETO-050505?style=for-the-badge&logo=github&logoColor=39ff88"/>
 </a>
 
 </td>
@@ -141,21 +127,25 @@ Projeto publicado através do GitHub Pages.
 
 <br>
 
-<!-- ========================= GITHUB STATS ========================= -->
+---
 
-<h2> &gt; GitHub Stats</h2>
+<!-- ========================================================= -->
+<!--                    GITHUB STATS                           -->
+<!-- ========================================================= -->
+
+## `> GitHub Stats`
 
 <div align="center">
 
 <img
   height="170"
-  src="https://github-readme-stats.vercel.app/api?username=MarcusCarniello&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=39ff88&icon_color=39ff88&text_color=ffffff&ring_color=39ff88"
+  src="https://github-readme-stats.vercel.app/api?username=MarcusCarniello&show_icons=true&hide_border=true&bg_color=050505&title_color=39ff88&icon_color=39ff88&text_color=ffffff&ring_color=39ff88"
   alt="GitHub Stats"
 />
 
 <img
   height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusCarniello&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=39ff88&text_color=ffffff&langs_count=6"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusCarniello&layout=compact&hide_border=true&bg_color=050505&title_color=39ff88&text_color=ffffff&langs_count=6"
   alt="Top Languages"
 />
 
@@ -163,12 +153,18 @@ Projeto publicado através do GitHub Pages.
 
 <br>
 
-<!-- ========================= STREAK ========================= -->
+---
+
+<!-- ========================================================= -->
+<!--                       STREAK                              -->
+<!-- ========================================================= -->
+
+## `> Streak`
 
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=MarcusCarniello&theme=dark&hide_border=true&background=0A0A0A&ring=39FF88&fire=39FF88&currStreakLabel=39FF88&sideLabels=FFFFFF&dates=777777&currStreakNum=FFFFFF&sideNums=FFFFFF"
+  src="https://streak-stats.demolab.com?user=MarcusCarniello&theme=dark&hide_border=true&background=050505&ring=39FF88&fire=39FF88&currStreakLabel=39FF88&sideLabels=FFFFFF&dates=777777&currStreakNum=FFFFFF&sideNums=FFFFFF"
   alt="GitHub Streak"
 />
 
@@ -176,14 +172,18 @@ Projeto publicado através do GitHub Pages.
 
 <br>
 
-<!-- ========================= ACTIVITY GRAPH ========================= -->
+---
 
-<h2> &gt; Activity</h2>
+<!-- ========================================================= -->
+<!--                    ACTIVITY GRAPH                         -->
+<!-- ========================================================= -->
+
+## `> Activity`
 
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=MarcusCarniello&bg_color=0a0a0a&color=ffffff&line=39ff88&point=39ff88&area=true&hide_border=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=MarcusCarniello&bg_color=050505&color=ffffff&line=39ff88&point=39ff88&area=true&hide_border=true"
   width="100%"
   alt="GitHub Activity Graph"
 />
@@ -192,9 +192,13 @@ Projeto publicado através do GitHub Pages.
 
 <br>
 
-<!-- ========================= TROPHIES ========================= -->
+---
 
-<h2> &gt; GitHub Trophies</h2>
+<!-- ========================================================= -->
+<!--                    TROPHIES                               -->
+<!-- ========================================================= -->
+
+## `> GitHub Trophies`
 
 <div align="center">
 
@@ -207,44 +211,56 @@ Projeto publicado através do GitHub Pages.
 
 <br>
 
-<!-- ========================= SNAKE ========================= -->
+---
 
-<h2> &gt; Contribution Snake</h2>
+<!-- ========================================================= -->
+<!--                 CONTRIBUTION SNAKE                        -->
+<!-- ========================================================= -->
+
+## `> Contribution Snake`
 
 <div align="center">
 
 <img
   src="https://raw.githubusercontent.com/MarcusCarniello/MarcusCarniello/output/github-contribution-grid-snake.svg"
-  alt="Snake animation"
+  alt="Contribution Snake"
 />
 
 </div>
 
 <br>
 
-<!-- ========================= REDES SOCIAIS ========================= -->
+---
 
-<h2> &gt; Redes sociais</h2>
+<!-- ========================================================= -->
+<!--                    REDES SOCIAIS                          -->
+<!-- ========================================================= -->
+
+## `> Redes sociais`
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/marcus-carniello-a8b238369">
-<img src="https://img.shields.io/badge/LinkedIn-39ff88?style=for-the-badge&logo=linkedin&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/LinkedIn-39ff88?style=for-the-badge&logo=linkedin&logoColor=000000"/>
 </a>
 
 <a href="https://instagram.com/MarcusCarniello">
-<img src="https://img.shields.io/badge/Instagram-39ff88?style=for-the-badge&logo=instagram&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Instagram-39ff88?style=for-the-badge&logo=instagram&logoColor=000000"/>
 </a>
 
 <a href="https://github.com/MarcusCarniello">
-<img src="https://img.shields.io/badge/GitHub-39ff88?style=for-the-badge&logo=github&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/GitHub-39ff88?style=for-the-badge&logo=github&logoColor=000000"/>
 </a>
 
 </div>
 
 <br><br>
 
-<!-- ========================= FOOTER ========================= -->
+---
+
+<!-- ========================================================= -->
+<!--                       FOOTER                              -->
+<!-- ========================================================= -->
 
 <div align="center">
 
@@ -255,13 +271,13 @@ Projeto publicado através do GitHub Pages.
 
 <br><br>
 
-<code>────────────────────────────────────────────</code>
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&height=100&section=footer&color=0:050505,40:0a2f1a,60:0d542d,100:050505&text=Obrigado%20por%20visitar%20meu%20perfil&fontColor=ffffff&fontSize=18&fontAlignY=55"
+  width="100%"
+  alt="Footer"
+/>
 
 <br><br>
-
-<strong>Obrigado por visitar meu perfil.</strong>
-
-<br>
 
 <sub>
 Marcus Carniello • FATEC São José dos Campos
