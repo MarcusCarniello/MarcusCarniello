@@ -19,14 +19,21 @@
 
 ## 🖤💚 Sobre mim
 
-<pre>
-class Marcus:
-    def __init__(self):
-        self.nome = "Marcus Carniello"
-        self.formacao = "Desenvolvimento de Software - Fatec São José dos Campos"
-        self.stack = ["HTML", "CSS", "Python"]
-        self.objetivo = "Virar dev pronto pro mercado de trabalho"
-</pre>
+<table>
+<tr>
+<td>
+
+&nbsp;&nbsp;👋&nbsp;&nbsp;**Nome:** Marcus Carniello
+
+&nbsp;&nbsp;🎓&nbsp;&nbsp;**Formação:** Desenvolvimento de Software — Fatec São José dos Campos
+
+&nbsp;&nbsp;💻&nbsp;&nbsp;**Stack:** HTML · CSS · Python
+
+&nbsp;&nbsp;🎯&nbsp;&nbsp;**Objetivo:** Virar dev pronto pro mercado de trabalho
+
+</td>
+</tr>
+</table>
 
 <br/>
 
