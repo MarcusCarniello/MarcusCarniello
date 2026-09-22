@@ -93,7 +93,7 @@
 <a href="https://www.linkedin.com/in/marcus-carniello-a8b238369" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF7F" />
 </a>
-<a href="https://instagram.com/Marcuscarniello" target="_blank">
+<a href="https://instagram.com/marcuscarniello" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF7F" />
 </a>
 <a href="https://github.com/MarcusCarniello" target="_blank">
