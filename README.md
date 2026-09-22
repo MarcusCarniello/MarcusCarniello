@@ -1,279 +1,141 @@
 <div align="center">
 
-<!-- ========================================================= -->
-<!--                         BANNER                            -->
-<!-- ========================================================= -->
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF7F&height=220&section=header&text=Marcus%20Carniello&fontSize=50&fontColor=00FF7F&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20Desenvolvimento%20de%20Software%20%40%20Fatec%20SJC&descAlignY=55&descSize=18&descColor=FFFFFF" width="100%"/>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&height=340&section=header&text=MARCUS%20CARNIELLO&fontSize=56&fontColor=ffffff&fontAlignY=47&fontAlign=50&desc=SOFTWARE%20DEVELOPER%20%E2%80%A2%20APIs%20E%20COMPUTA%C3%87%C3%83O&descSize=19&descAlignY=62&descColor=39ff88&color=0:020403,10:030b06,25:061a0e,40:0b3820,50:0f5c31,60:0a3d21,75:061b0f,90:030a06,100:010201"
-  width="100%"
-  alt="Marcus Carniello"
-/>
-
-<br><br>
-
-<!-- ========================================================= -->
-<!--                         REDES                             -->
-<!-- ========================================================= -->
-
-<a href="https://github.com/MarcusCarniello">
-  <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=39ff88"/>
+<!-- Typing animation -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00FF7F&center=true&vCenter=true&width=600&lines=Dev+em+forma%C3%A7%C3%A3o+%F0%9F%9A%80;HTML+%7C+CSS+%7C+Python;Construindo+projetos+reais;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 </a>
 
-<a href="https://www.linkedin.com/in/marcus-carniello-a8b238369">
-  <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=39ff88"/>
-</a>
+<br/>
 
-<a href="https://instagram.com/MarcusCarniello">
-  <img src="https://img.shields.io/badge/Instagram-050505?style=for-the-badge&logo=instagram&logoColor=39ff88"/>
-</a>
+<img src="https://img.shields.io/badge/-black?style=for-the-badge" width="30"/>
+<img src="https://img.shields.io/badge/-00FF7F?style=for-the-badge" width="30"/>
 
 </div>
 
-<br>
+<br/>
 
----
+## 🖤💚 Sobre mim
 
-<!-- ========================================================= -->
-<!--                      SOBRE MIM                            -->
-<!-- ========================================================= -->
+```py
+class Marcus:
+    def __init__(self):
+        self.nome = "Marcus Carniello"
+        self.formacao = "Desenvolvimento de Software - Fatec São José dos Campos"
+        self.stack = ["HTML", "CSS", "Python"]
+        self.objetivo = "Virar dev pronto pro mercado"
 
-## `> Sobre mim`
+    def curiosidade(self):
+        return "Comecei a programar do zero na Fatec e não parei mais."
+```
 
-Sou **Marcus Carniello**, estudante da **FATEC São José dos Campos**.
+<br/>
 
-Atualmente estudo e desenvolvo projetos utilizando **HTML, CSS e Python**, com interesse em **APIs e computação**.
-
-Este perfil é meu espaço para compartilhar projetos, estudos e minha evolução na área de tecnologia.
-
-<br>
-
----
-
-<!-- ========================================================= -->
-<!--                    TECNOLOGIAS                            -->
-<!-- ========================================================= -->
-
-## `> Tecnologias`
+## 🛠️ Tecnologias
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html" height="65" alt="HTML"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css" height="65" alt="CSS"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=python" height="65" alt="Python"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/HTML-0a0a0a?style=for-the-badge&logo=html5&logoColor=39ff88"/>
-<img src="https://img.shields.io/badge/CSS-0a0a0a?style=for-the-badge&logo=css3&logoColor=39ff88"/>
-<img src="https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=39ff88"/>
+<img src="https://skillicons.dev/icons?i=html,css,py&theme=dark" />
 
 </div>
 
-<br>
+<br/>
 
----
-
-<!-- ========================================================= -->
-<!--                       PROJETOS                            -->
-<!-- ========================================================= -->
-
-## `> Projeto em destaque`
+## 📌 Projetos em destaque
 
 <div align="center">
 
 <table>
-<tr>
-
-<td width="100%" align="center">
-
-<h3>🌐 Atividade 1</h3>
-
-<p>
-Projeto publicado através do GitHub Pages.
-</p>
-
-<br>
-
-<img src="https://img.shields.io/badge/HTML-39ff88?style=flat-square&logo=html5&logoColor=000000"/>
-<img src="https://img.shields.io/badge/CSS-39ff88?style=flat-square&logo=css3&logoColor=000000"/>
-<img src="https://img.shields.io/badge/GitHub%20Pages-39ff88?style=flat-square&logo=github&logoColor=000000"/>
-
-<br><br>
-
-<a href="https://marcuscarniello.github.io/atividade1/">
-  <img src="https://img.shields.io/badge/VER%20PROJETO-050505?style=for-the-badge&logo=github&logoColor=39ff88"/>
-</a>
-
-</td>
-
-</tr>
+  <tr>
+    <td width="100%">
+      <a href="https://marcuscarniello.github.io/atividade02/">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarcusCarniello&repo=atividade02&theme=dark&bg_color=000000&title_color=00FF7F&text_color=ffffff&border_color=00FF7F&icon_color=00FF7F" />
+      </a>
+      <br/>
+      <b>🏠 Vetor Imóveis</b> — Encontre seu novo lar. Site imobiliário desenvolvido com HTML e CSS.
+      <br/>
+      <a href="https://marcuscarniello.github.io/atividade02/">
+        <img src="https://img.shields.io/badge/Ver%20projeto-00FF7F?style=for-the-badge&logoColor=black&color=00FF7F&labelColor=000000"/>
+      </a>
+    </td>
+  </tr>
 </table>
 
 </div>
 
-<br>
+<br/>
 
----
-
-<!-- ========================================================= -->
-<!--                    GITHUB STATS                           -->
-<!-- ========================================================= -->
-
-## `> GitHub Stats`
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api?username=MarcusCarniello&show_icons=true&hide_border=true&bg_color=050505&title_color=39ff88&icon_color=39ff88&text_color=ffffff&ring_color=39ff88"
-  alt="GitHub Stats"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=MarcusCarniello&show_icons=true&theme=dark&bg_color=000000&title_color=00FF7F&text_color=ffffff&icon_color=00FF7F&border_color=00FF7F&hide_border=false" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusCarniello&layout=compact&theme=dark&bg_color=000000&title_color=00FF7F&text_color=ffffff&border_color=00FF7F&hide_border=false" width="48%"/>
 
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusCarniello&layout=compact&hide_border=true&bg_color=050505&title_color=39ff88&text_color=ffffff&langs_count=6"
-  alt="Top Languages"
-/>
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=MarcusCarniello&theme=dark&background=000000&stroke=00FF7F&ring=00FF7F&fire=00FF7F&currStreakLabel=00FF7F&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&border=00FF7F" width="60%"/>
 
 </div>
 
-<br>
+<br/>
 
----
-
-<!-- ========================================================= -->
-<!--                       STREAK                              -->
-<!-- ========================================================= -->
-
-## `> Streak`
+## 📈 Activity Graph
 
 <div align="center">
 
-<img
-  src="https://streak-stats.demolab.com?user=MarcusCarniello&theme=dark&hide_border=true&background=050505&ring=39FF88&fire=39FF88&currStreakLabel=39FF88&sideLabels=FFFFFF&dates=777777&currStreakNum=FFFFFF&sideNums=FFFFFF"
-  alt="GitHub Streak"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MarcusCarniello&theme=react-dark&bg_color=000000&color=00FF7F&line=00FF7F&point=ffffff&area=true&hide_border=true" width="90%"/>
 
 </div>
 
-<br>
+<br/>
 
----
-
-<!-- ========================================================= -->
-<!--                    ACTIVITY GRAPH                         -->
-<!-- ========================================================= -->
-
-## `> Activity`
+## 🏆 Trophies
 
 <div align="center">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=MarcusCarniello&bg_color=050505&color=ffffff&line=39ff88&point=39ff88&area=true&hide_border=true"
-  width="100%"
-  alt="GitHub Activity Graph"
-/>
+<img src="https://github-profile-trophy.vercel.app/?username=MarcusCarniello&theme=darkhub&no-frame=true&no-bg=false&margin-w=8&column=7" />
 
 </div>
 
-<br>
+<br/>
 
----
-
-<!-- ========================================================= -->
-<!--                    TROPHIES                               -->
-<!-- ========================================================= -->
-
-## `> GitHub Trophies`
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img
-  src="https://github-profile-trophy.vercel.app/?username=MarcusCarniello&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"
-  alt="GitHub Trophies"
-/>
+<img src="https://raw.githubusercontent.com/MarcusCarniello/MarcusCarniello/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+
+<sub>⚠️ Gerado automaticamente via GitHub Actions — veja instruções de configuração abaixo.</sub>
 
 </div>
 
-<br>
+<br/>
 
----
-
-<!-- ========================================================= -->
-<!--                 CONTRIBUTION SNAKE                        -->
-<!-- ========================================================= -->
-
-## `> Contribution Snake`
+## 🌐 Redes sociais
 
 <div align="center">
 
-<img
-  src="https://raw.githubusercontent.com/MarcusCarniello/MarcusCarniello/output/github-contribution-grid-snake.svg"
-  alt="Contribution Snake"
-/>
-
-</div>
-
-<br>
-
----
-
-<!-- ========================================================= -->
-<!--                    REDES SOCIAIS                          -->
-<!-- ========================================================= -->
-
-## `> Redes sociais`
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/marcus-carniello-a8b238369">
-  <img src="https://img.shields.io/badge/LinkedIn-39ff88?style=for-the-badge&logo=linkedin&logoColor=000000"/>
+<a href="https://www.linkedin.com/in/marcus-carniello-a8b238369" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF7F" />
 </a>
-
-<a href="https://instagram.com/MarcusCarniello">
-  <img src="https://img.shields.io/badge/Instagram-39ff88?style=for-the-badge&logo=instagram&logoColor=000000"/>
+<a href="https://instagram.com/Marcuscarniello" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF7F" />
 </a>
-
-<a href="https://github.com/MarcusCarniello">
-  <img src="https://img.shields.io/badge/GitHub-39ff88?style=for-the-badge&logo=github&logoColor=000000"/>
+<a href="https://github.com/MarcusCarniello" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF7F" />
 </a>
 
 </div>
 
-<br><br>
-
----
-
-<!-- ========================================================= -->
-<!--                       FOOTER                              -->
-<!-- ========================================================= -->
+<br/>
 
 <div align="center">
 
-<img
-  src="https://komarev.com/ghpvc/?username=MarcusCarniello&style=flat-square&color=39ff88&label=VISITAS"
-  alt="Profile views"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF7F,100:000000&height=100&section=footer"/>
 
-<br><br>
-
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&height=120&section=footer&color=0:010201,25:061b0f,50:0f5c31,75:061b0f,100:010201&text=Obrigado%20por%20visitar%20meu%20perfil&fontColor=ffffff&fontSize=20&fontAlignY=55"
-  width="100%"
-  alt="Footer"
-/>
-
-<br><br>
-
-<sub>
-Marcus Carniello • FATEC São José dos Campos
-</sub>
-
-<br><br>
-
-<code>© Marcus Carniello</code>
+<sub>Feito com 🖤 e 💚 por Marcus Carniello</sub>
 
 </div>
