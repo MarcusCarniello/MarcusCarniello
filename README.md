@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF7F&height=220&section=header&text=Marcus%20Carniello&fontSize=50&fontColor=00FF7F&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20Desenvolvimento%20de%20Software%20%40%20Fatec%20SJC&descAlignY=55&descSize=18&descColor=FFFFFF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF7F&height=220&section=header&text=Marcus%20Carniello&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20Desenvolvimento%20de%20Software%20%40%20Fatec%20SJC&descAlignY=55&descSize=18&descColor=FFFFFF" width="100%"/>
 
 <!-- Typing animation -->
 <a href="#">
@@ -25,10 +25,7 @@ class Marcus:
         self.nome = "Marcus Carniello"
         self.formacao = "Desenvolvimento de Software - Fatec São José dos Campos"
         self.stack = ["HTML", "CSS", "Python"]
-        self.objetivo = "Virar dev pronto pro mercado"
-
-    def curiosidade(self):
-        return "Comecei a programar do zero na Fatec e não parei mais."
+        self.objetivo = "Virar dev pronto pro mercado de trabalho"
 </pre>
 
 <br/>
